@@ -1,11 +1,15 @@
 {
+    "id",
     "name": "Citadel of Infinite Void",
+    "author",
+    "creators": ["Creator1", "Creator2", "Creator3"],
     "verifier": "skitsuna",
-    "completion": "https://www.youtube.com/watch?v=FWSPVmFkOd8",
-    "location": "Pit of Misery",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify",
+    "password",
     "records": [
         {
-            "user": "random",
+            "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
