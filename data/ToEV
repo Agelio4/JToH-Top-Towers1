@@ -1,0 +1,14 @@
+{
+    "name": "Tower of Eternal Void",
+    "verifier": "skitsuna",
+    "completion": "https://www.youtube.com/watch?v=FWSPVmFkOd8",
+    "location": "Pit of Misery",
+    "records": [
+        {
+            "user": "random",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
