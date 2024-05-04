@@ -51,12 +51,6 @@
     padding-right: 2rem;
     max-width: 48rem;
 }
-.page-list .level-container .level .level-authors {
-    display: grid;
-    grid-template-columns: max-content 1fr;
-    grid-auto-rows: max-content;
-    gap: 1rem;
-}
 .page-list .level-container .level .video {
     aspect-ratio: 16/9;
 }
@@ -77,11 +71,6 @@
 }
 .page-list .level-container .level .records tr td:not(:last-child) {
     padding-right: 1rem;
-}
-.page-list .level-container .level .records .percent,
-.page-list .level-container .level .records .user,
-.page-list .level-container .level .records .hz {
-    padding-block: 1rem;
 }
 .page-list .level-container .level .records .user {
     width: 100%;
